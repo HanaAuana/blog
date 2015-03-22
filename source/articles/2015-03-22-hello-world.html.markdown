@@ -31,6 +31,7 @@ Those are the main pieces for now, but if I modify what I'm using, I'll do my be
 This quote from Sun Tzu's The Art of War is one of my favorites. Great for warfare maybe, but not so much for blogs. To give you a rough idea of what I'll be adding here, I've listed some of my interests and goals that I might be covering:
 
 * Web development/design: Obvious. This is a big one, but very important (especially when I'm writing a blog). I've never had much of an eye for design, but practice makes perfect right?
+* Algorithms: Due to weird scheduling, I took my algorithms class as one of my last CS classes. I'm eager to continue digging into this rich treasure trove of O(n) goodness
 * Machine learning/AI: I took an AI class in college, and it was an eye-opening experience. I'd really like to do some more in this area, particularly with genetic algorithms and recommender systems
 * Simulation: Building off of AI, I think the ability to simulate large, complex systems is one of the most fascinating opportunities that computers and programming allow us to take advantage of
 * Automation: Repetitive, mundane tasks are the bane of my existence. Let's see what we can make computers do for us instead, shall we?
@@ -39,7 +40,7 @@ This quote from Sun Tzu's The Art of War is one of my favorites. Great for warfa
 
 As a special super bonus, here's a small snippet from the first big project I worked on: A basic Blackjack game in highschool for my AP Computer Science class. It's not the most elegant, and I definitely like to think the code I write nowadays is better, but it's a good reference point to see how far I've come. I hope you'll enjoy it as well:
 
-```
+```java
 public int playHand()
   {
     int playerWon = 0;
