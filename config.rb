@@ -34,7 +34,7 @@ activate :relative_assets
 
 set :casper, {
   blog: {
-    url: 'http://code.hanaauana.github.io/blog',
+    url: 'http://code.dmichaellim.com/blog',
     name: 'HanaAuana',
     description: "Don't just work smart, work modern",
     date_format: '%d %B %Y',
@@ -42,9 +42,8 @@ set :casper, {
   },
   author: {
     name: 'Michael Lim',
-    bio: 'Middleman is a static site generator using all the ' \
-         'shortcuts and tools in modern web development.',
-    location: nil, # Optional
+    bio: 'A recent CS grad with more theory than practice. Working to even the score. ',
+    location: 'Silicon Valley', # Optional
     website: nil, # Optional
     gravatar_email: nil # Optional
   }
