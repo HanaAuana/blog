@@ -55,7 +55,7 @@ module MiddlemanCasperHelpers
   def tags(article = current_article, separator = ', ')
     capture_haml do
       article.tags.each do |tag|
-        haml_tag(:a, tag, href: "/blog/"+tag_path(tag))
+        haml_tag(:a, tag, href: "/blog"+tag_path(tag))
         haml_concat(separator) unless article.tags.last == tag
       end
     end.gsub("\n", '')
@@ -97,9 +97,9 @@ module MiddlemanCasperHelpers
 
   def feed_path
     if is_tag_page?
-      "#{current_page.url.to_s}feed.xml"
+      "/blog#{current_page.url.to_s}feed.xml"
     else
-      "#{blog.options.prefix.to_s}/feed.xml"
+      "#{blog.options.prefix.to_s}/blog/feed.xml"
     end
   end
   def home_path
