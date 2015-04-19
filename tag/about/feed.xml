@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>HanaAuana: About</title>
+  <subtitle>Posts tagged with About</subtitle>
+  <id>http://code.dmichaellim.com/blog/</id>
+  <link href="http://code.dmichaellim.com/blog/"/>
+  <link href="http://code.dmichaellim.com/blog/tag/about/feed.xml" rel="self"/>
+  <updated>2015-04-18T17:00:00-07:00</updated>
+  <author>
+    <name>Michael Lim</name>
+  </author>
+  <entry>
+    <title>Hello World</title>
+    <link rel="alternate" href="http://code.dmichaellim.com/blog/2015/03/22/hello-world/"/>
+    <id>http://code.dmichaellim.com/blog/2015/03/22/hello-world/</id>
+    <published>2015-03-21T17:00:00-07:00</published>
+    <updated>2015-04-19T16:41:18-07:00</updated>
+    <author>
+      <name>Michael Lim</name>
+    </author>
+    <summary type="html"> Welcome! On the roughly 1 year anniversary of getting my first job out of college, I thought it was time to finally get down to business and start writing this blog. I’ve been meaning to do this for a few years, but kept putting it off for one reason </summary>
+  </entry>
+</feed>

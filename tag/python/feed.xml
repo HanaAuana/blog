@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>HanaAuana: Python</title>
+  <subtitle>Posts tagged with Python</subtitle>
+  <id>http://code.dmichaellim.com/blog/</id>
+  <link href="http://code.dmichaellim.com/blog/"/>
+  <link href="http://code.dmichaellim.com/blog/tag/python/feed.xml" rel="self"/>
+  <updated>2015-04-18T17:00:00-07:00</updated>
+  <author>
+    <name>Michael Lim</name>
+  </author>
+  <entry>
+    <title>Diving In</title>
+    <link rel="alternate" href="http://code.dmichaellim.com/blog/2015/04/19/diving-in/"/>
+    <id>http://code.dmichaellim.com/blog/2015/04/19/diving-in/</id>
+    <published>2015-04-18T17:00:00-07:00</published>
+    <updated>2015-04-19T16:42:49-07:00</updated>
+    <author>
+      <name>Michael Lim</name>
+    </author>
+    <summary type="html"> I’ve always been a big fan of Python. Something about the syntax, meaningful whitespace, and “There should be one, and preferably only one, obvious way to do it” mentality really clicked with me. Most of my programming in school was done in Java, but </summary>
+  </entry>
+</feed>

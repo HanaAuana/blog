@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>HanaAuana</title>
+  <subtitle>Don't just work smart, work modern</subtitle>
+  <id>http://code.dmichaellim.com/blog/</id>
+  <link href="http://code.dmichaellim.com/blog/"/>
+  <link href="http://code.dmichaellim.com/blog/feed.xml" rel="self"/>
+  <updated>2015-04-18T17:00:00-07:00</updated>
+  <author>
+    <name>Michael Lim</name>
+  </author>
+  <entry>
+    <title>Diving In</title>
+    <link rel="alternate" href="http://code.dmichaellim.com/blog/2015/04/19/diving-in/"/>
+    <id>http://code.dmichaellim.com/blog/2015/04/19/diving-in/</id>
+    <published>2015-04-18T17:00:00-07:00</published>
+    <updated>2015-04-19T16:42:49-07:00</updated>
+    <author>
+      <name>Michael Lim</name>
+    </author>
+    <summary type="html"> I’ve always been a big fan of Python. Something about the syntax, meaningful whitespace, and “There should be one, and preferably only one, obvious way to do it” mentality really clicked with me. Most of my programming in school was done in Java, but </summary>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <link rel="alternate" href="http://code.dmichaellim.com/blog/2015/03/22/hello-world/"/>
+    <id>http://code.dmichaellim.com/blog/2015/03/22/hello-world/</id>
+    <published>2015-03-21T17:00:00-07:00</published>
+    <updated>2015-04-19T16:41:18-07:00</updated>
+    <author>
+      <name>Michael Lim</name>
+    </author>
+    <summary type="html"> Welcome! On the roughly 1 year anniversary of getting my first job out of college, I thought it was time to finally get down to business and start writing this blog. I’ve been meaning to do this for a few years, but kept putting it off for one reason </summary>
+  </entry>
+</feed>
