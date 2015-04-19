@@ -1,0 +1,14 @@
+---
+title: Diving In
+date: 2015-04-19
+tags: Python
+layout: post
+---
+
+I've always been a big fan of Python. Something about the syntax, meaningful whitespace, and "There should be one, and preferably only one, obvious way to do it" mentality really clicked with me. Most of my programming in school was done in Java, but I'd use Python whenever I was given a choice. 
+
+For most of that time, the issue of Python 2 vs 3 was still hotly debated, given the many libraries that weren't yet ported to 3, and the uncertainty as to when that might happen. Now that much of that has died down, and with 2.7 officially being the last major release of Python 2, I figured it was finally time to get up to speed on Python 3. 
+
+Unfortunately, most of the tutorials that I used while learning Python originally, like [Learn Python The Hard Way](http://learnpythonthehardway.org/), use Python 2. So I wanted to make sure I found something specifically geared towards covering the differences between 2 and 3, and luckily I found just the thing. [Dive Into Python](http://www.diveintopython3.net/) was first written for Python 2, but has an updated version just for 3.
+
+Dive Into Python 3 is a great mix of reference and example, with a nice balance of reading and practice to really help reinforce what you're learning. I've been working through the chapters and sample programs, and I think things are really coming along nicely!

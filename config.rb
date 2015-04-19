@@ -43,7 +43,7 @@ set :casper, {
   author: {
     name: 'Michael Lim',
     bio: 'A recent CS grad with more theory than practice. Working to even the score. ',
-    location: 'Silicon Valley', # Optional
+    location: 'SF Bay Area', # Optional
     website: nil, # Optional
     gravatar_email: nil # Optional
   }
